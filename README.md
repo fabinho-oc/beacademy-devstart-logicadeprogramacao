@@ -6,6 +6,10 @@
 
 Projeto criado para compartilhar como item entregável para avaliação de conhecimento no Programa DevStart Paylivre.
 Será apresentado os exercícios solicitados nas aulas.
+
+Professores:
+Prof. Ms. Marcos Monteiro
+Prof. Régis Santos
 ## Algoritimo deste módulo
 - execução dos comandos Git e Github;
 - teste de execução módulo de logica de programação;
@@ -20,6 +24,15 @@ branch atualizada
 - 4 - git add . (caso seja enviado todos os arquivos)
 - 5 - git commit -m "Mensagem do commit"
 - 6 - git push (caso seja exista um repostorio remoto)
+
+- 1 git clone git@github.com:fabinho-oc/beacademy-devstart-logicadeprogramacao.git
+- 2 dir
+- 3 cd beacademy-devstart-logicadeprogramacao
+- 4 git checkout -b feature/exercicio21
+
+
+- PADRÃO LINK 
+[Resolução](./exercicio24.txt)
 
 ## Lista de Exercicios
 
