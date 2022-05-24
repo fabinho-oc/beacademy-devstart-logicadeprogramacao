@@ -6,17 +6,6 @@
 
 Projeto criado para compartilhar como item entregável para avaliação de conhecimento no Programa DevStart Paylivre.
 Será apresentado os exercícios solicitados nas aulas.
-## Autor
-
-- [@fabinho-oc](https://github.com/fabinho-oc/beacademy-devstart-gitegithub)
-
-
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora back-end, em processo de transição de carreira.
-Atualmente estou no primeiro ano de analise e desenvolvimento de sistemas, e atuo a mais de 15 anos na área de Finanças, diretamente com impostos e contabilidade.
-
-Na area de Finanças, tenho graduação em Ciências Contábeis e Pós-Graduação em Contabilidade e Cotroladiria Empresarial
-
 ## Algoritimo deste módulo
 - execução dos comandos Git e Github;
 - teste de execução módulo de logica de programação;
@@ -50,3 +39,14 @@ branch atualizada
 
 25 Descrição do enunciado
 [Exercicio 25](https://link-da-documentação);
+
+## Autor
+
+- [@fabinho-oc](https://github.com/fabinho-oc/beacademy-devstart-gitegithub)
+
+
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora back-end, em processo de transição de carreira.
+Atualmente estou no primeiro ano de analise e desenvolvimento de sistemas, e atuo a mais de 15 anos na área de Finanças, diretamente com impostos e contabilidade.
+
+Na area de Finanças, tenho graduação em Ciências Contábeis e Pós-Graduação em Contabilidade e Cotroladiria Empresarial
