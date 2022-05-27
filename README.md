@@ -46,7 +46,16 @@ branch atualizada
 [Exercicio 03](./exerciciosResol/EXERCICIO_03_Operadores.ALG);
 
 04 Descrição do enunciado
-[Exercicio 04](https://link-da-documentação);
+[Exercicio 04](./exerciciosResol/EXERCICIO_04_EXTRATO.ALG);
+
+05 Descrição do enunciado
+[Exercicio 05](./exerciciosResol/EXERCICIO_05_CLASSIFICARIMC.ALG);
+
+06 Descrição do enunciado
+[Exercicio 06](./exerciciosResol/EXERCICIO_06_CLASSIFICAIDADE.ALG);
+
+07 Descrição do enunciado
+[Exercicio 07](./exerciciosResol/EXERCICIO_07_EXTRATOOPER.ALG);
 
 [...]
 
