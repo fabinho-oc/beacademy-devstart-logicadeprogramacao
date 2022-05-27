@@ -37,13 +37,13 @@ branch atualizada
 ## Lista de Exercicios
 
 01 Descrição do enunciado
-[Exercicio 01](https://link-da-documentação);
+[Exercicio 01](./exerciciosResol/EXERCICIO_01_NOMEENDERECO.ALG);
 
 02 Descrição do enunciado
-[Exercicio 02](https://link-da-documentação);
+[Exercicio 02](./exerciciosResol/EXERCICIO_02_CALCIMC.ALG);
 
 03 Descrição do enunciado
-[Exercicio 03](https://link-da-documentação);
+[Exercicio 03](./exerciciosResol/EXERCICIO_03_Operadores.ALG);
 
 04 Descrição do enunciado
 [Exercicio 04](https://link-da-documentação);
