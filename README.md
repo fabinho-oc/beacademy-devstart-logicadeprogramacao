@@ -57,6 +57,15 @@ branch atualizada
 07 Descrição do enunciado
 [Exercicio 07](./exerciciosResol/EXERCICIO_07_EXTRATOOPER.ALG);
 
+08 Descrição do enunciado
+[Exercicio 08](./exerciciosResol/EXERCICIO_08_OPERACAOMATEMATICA.ALG);
+
+09 Descrição do enunciado
+[Exercicio 09](./exerciciosResol/EXERCICIO_09_CALCULOAREAPERIMETRO.ALG);
+
+10 Descrição do enunciado
+[Exercicio 10](./exerciciosResol/EXERCICIO_10_EXTRATOOPER.ALG);
+
 [...]
 
 25 Descrição do enunciado
