@@ -68,8 +68,8 @@ branch atualizada
 
 [...]
 
-25 Descrição do enunciado
-[Exercicio 25](https://link-da-documentação);
+Exemplo Descrição do enunciado
+[Exercicio Exemplo](https://link-da-documentação);
 
 ## Autor
 
